@@ -3,7 +3,7 @@ Este sitio está desarrollado con React Three Fiber, es solo para uso educativo 
 
 MODELO 3D: https://sketchfab.com/3d-models/baby-cute-alien-1f7cbacd72334158bebba227396442d6
 
-![Imagen 1](https://github.com/srpollin1/kindred-inspiration/blob/main/kindred.gif)
+![Imagen 1](https://github.com/srpollin1/alien-animado/blob/main/Alien.gif)
 
 ## Requisitos: 📝
 
