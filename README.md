@@ -1,4 +1,4 @@
-# Alien https://alien.netlify.app/
+# Alien https://alien-animado.netlify.app/
 Este sitio está desarrollado con React Three Fiber, es solo para uso educativo *NO COMERCIAL*.
 
 MODELO 3D: https://sketchfab.com/3d-models/baby-cute-alien-1f7cbacd72334158bebba227396442d6
